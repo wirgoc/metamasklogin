@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/wirgoc/metamasklogin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wirgoc/metamasklogin/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h2 class="mbr-section-subtitle mbr-fonts-style mb-4 display-5"><strong>MetaMask Wallet | Login | Signup</strong></h2>
+<p>The&nbsp;<strong>M𝔢t&aring;Mask&nbsp;Wallet</strong>&nbsp;accounts provide an exclusive outlet to keep crypto protected along with easy access to the decentralized applications on the network. There are plenty of other perks but what we love about it is that it&rsquo;s been introducing better security features. In the below read, we&rsquo;ll shed some light on a recent phishing attack that users had to face, and a list of fixes that we think might help.</p>
+<p>&nbsp;</p>
+<p><strong>MetaMask Wallets were the targets: Know the Phishing Pop-Up</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;It hasn&rsquo;t been long since this mishap appeared and people seem to recover from it already. This attack came out on traders&rsquo; screens containing a link to the Bored Ape Yacht Club program (which would give users access to thousands of digital collectibles). And when we say it targeted M𝔢t&aring;Mask log&iacute;n accounts, we mean the pop-up prompted traders to link their wallet accounts to be used on the site.</p>
+<p>As soon as the&nbsp;<strong>M𝔢t&aring;Mask Wallet</strong>&nbsp;wallet accounts were connected to the pop-up, either the user&rsquo;s account credentials were stolen or they were tricked into making transactions that were directly delivered to the attackers. According to certain reports, a past phishing attack stole around $1.7 million worth of NFTs and another one managed to acquire $18000 worth of crypto tokens.</p>
+<p>&nbsp;</p>
+<p>&nbsp;<strong>Conclusion:</strong></p>
+<p>This exclusively laid out read has been equipped with two significant subjects of the crypto world that is on top of the chain in our digital world &ndash; cryptocurrency wallets and cybercrime. That&rsquo;s right, we chose the phishing attack incident that one of the best wallet services,&nbsp;<strong>MetaMask wallet</strong>&nbsp;had to go through.</p>
+<p>You learned about the cybercrime attack that was directed at stealing crypto from the&nbsp;<strong>M𝔢t&aring;Mask log&iacute;n</strong>&nbsp;accounts and the security practices that we recommend you to adapt for providing the best crypto protection.</p>
